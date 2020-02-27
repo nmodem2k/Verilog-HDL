@@ -1,15 +1,12 @@
+/*Verilog HDL Prgram for Serial In Parallel Out Register*/
 module SIPO ( din ,clk ,reset ,dout );
-
 output dout ;
-
-
 input din ;
 wire din ;
 input clk ;
 wire clk ;
 input reset ;
 wire reset ;
-
 reg [3:0]s;
 reg [3:0]dout;
 always @ (posedge (clk)) begin 
