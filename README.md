@@ -3,7 +3,7 @@ This Repository contains Programs on Verilog HDL
 # Resources to learn Verilog-HDL
 - [Verilog  Tutorial](https://drive.google.com/file/d/19YkWoDOZWMmaEZ5kae7yToDb8fU-crVk/view?usp=sharing)
 - [EE 5703 | Nitin Chandrachoodan](http://www.ee.iitm.ac.in/~nitin/teaching/ee5703/)
-- [M. Morris Mano, Michael D. Ciletti - Digital Desig…uction to the Verilog HDL-Prentice Hall (2012)](https://drive.google.com/file/d/14uYl3n4KSqp9CWdUZGcpRHjzRpW3g4Mb/view?usp=sharing)
+- [M. Morris Mano, Michael D. Ciletti - Digital Design_ With an Introduction to the Verilog HDL-Prentice Hall (2012) ](https://drive.google.com/file/d/14uYl3n4KSqp9CWdUZGcpRHjzRpW3g4Mb/view?usp=sharing)
 
 # An Introduction to Verilog-HDL
 Verilog is a HARDWARE DESCRIPTION LANGUAGE (HDL). It is a language used for describing a digital system like a network switch or a microprocessor or a memory or a flip−flop. It means, by using a HDL we can describe any digital hardware at any level. Designs, which are described in HDL are independent of technology, very easy for designing and debugging, and are normally more useful than schematics, particularly for large circuits.
