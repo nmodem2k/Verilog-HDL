@@ -181,10 +181,6 @@ This is the most generic form of description. It uses the concept of a block of 
 a _sensitivity_ list - signals that can trigger an update of the code. Any time there is a change in the
 sensitivity list, the entire block has to be evaluated in sequential order, and the outputs updated.
 This allows very complex descriptions to be written almost like a regular C program. However, if not
-
-## Full code available here.
-
-
 written carefully, it can easily result in hardware descriptions that do not make physical sense. An
 example for the MUX is:
 
@@ -198,7 +194,7 @@ else
 y = b ;
 end
 ```
-Full code available here
+
 
 # Simulation and test benches
 
